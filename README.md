@@ -1,5 +1,5 @@
 # 💫 A propos de moi :
- 19ans<br>🏫 Étudiant de 2ème année en BUT Métiers du Multimédia et de l'Internet à Université Gustave Eiffel.<br>💻 Développeur Front-End, Motion Design, Production Audiovisuelle.<br>🔎 Je recherche un stage en développement Front-End.
+ 20ans<br>🏫 Étudiant en 3ème année en BUT Métiers du Multimédia et de l'Internet à Université Gustave Eiffel.<br>💻 Développeur Front-End, Motion Design, Production Audiovisuelle.<br>🔎 Je recherche un stage en développement Front-End.
 
 
 ## 🌐 Socials:
